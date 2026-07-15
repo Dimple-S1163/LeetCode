@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 ## Heap (Priority Queue)
 |  |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
