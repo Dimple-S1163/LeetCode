@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple-S1163/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
