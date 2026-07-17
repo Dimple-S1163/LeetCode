@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Dimple-S1163/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Dimple-S1163/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 ## Heap (Priority Queue)
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Dimple-S1163/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
