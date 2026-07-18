@@ -53,6 +53,7 @@
 | [0020-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
