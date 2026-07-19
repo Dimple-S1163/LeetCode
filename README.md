@@ -13,6 +13,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -72,6 +73,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
