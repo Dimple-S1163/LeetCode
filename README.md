@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dimple-S1163/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Dimple-S1163/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple-S1163/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -13,6 +14,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Dimple-S1163/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
