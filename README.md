@@ -58,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dimple-S1163/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +103,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
