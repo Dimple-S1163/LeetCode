@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple-S1163/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0704-binary-search) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,9 +101,22 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
