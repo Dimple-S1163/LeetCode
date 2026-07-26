@@ -78,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
+| [0292-nim-game](https://github.com/Dimple-S1163/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dimple-S1163/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dimple-S1163/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
