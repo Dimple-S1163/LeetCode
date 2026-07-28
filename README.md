@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Dimple-S1163/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Dimple-S1163/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple-S1163/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0704-binary-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Dimple-S1163/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
