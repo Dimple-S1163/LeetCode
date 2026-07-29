@@ -33,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple-S1163/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -79,6 +80,7 @@
 | [0013-roman-to-integer](https://github.com/Dimple-S1163/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Dimple-S1163/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
@@ -88,6 +90,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Dimple-S1163/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
