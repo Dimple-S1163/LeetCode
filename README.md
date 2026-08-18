@@ -67,6 +67,7 @@
 | [0020-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dimple-S1163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dimple-S1163/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bit Manipulation
 |  |
@@ -169,6 +171,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dimple-S1163/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Dimple-S1163/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Manacher
 |  |
@@ -178,4 +181,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
