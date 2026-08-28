@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Dimple-S1163/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Dimple-S1163/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Dimple-S1163/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Dimple-S1163/LeetCode/tree/master/0283-move-zeroes) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Dimple-S1163/LeetCode/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Dimple-S1163/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
