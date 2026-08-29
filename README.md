@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Dimple-S1163/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple-S1163/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -133,6 +134,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dimple-S1163/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Dimple-S1163/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
