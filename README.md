@@ -198,4 +198,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dimple-S1163/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Dimple-S1163/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
