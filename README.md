@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Dimple-S1163/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Dimple-S1163/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/Dimple-S1163/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Dimple-S1163/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Dimple-S1163/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +78,7 @@
 | [0049-group-anagrams](https://github.com/Dimple-S1163/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dimple-S1163/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dimple-S1163/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
@@ -148,6 +150,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Dimple-S1163/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dimple-S1163/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -166,6 +169,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
@@ -204,4 +208,8 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Dimple-S1163/LeetCode/tree/master/0196-delete-duplicate-emails) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
