@@ -106,6 +106,7 @@
 | [0062-unique-paths](https://github.com/Dimple-S1163/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Dimple-S1163/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Dimple-S1163/LeetCode/tree/master/0292-nim-game) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dimple-S1163/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Dimple-S1163/LeetCode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Dimple-S1163/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
@@ -153,6 +155,7 @@
 | [0022-generate-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Dimple-S1163/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Dimple-S1163/LeetCode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Dimple-S1163/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dimple-S1163/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
