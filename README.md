@@ -82,6 +82,7 @@
 | [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Dimple-S1163/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Dimple-S1163/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0168-excel-sheet-column-title](https://github.com/Dimple-S1163/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Dimple-S1163/LeetCode/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +108,7 @@
 | [0067-add-binary](https://github.com/Dimple-S1163/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dimple-S1163/LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Dimple-S1163/LeetCode/tree/master/0089-gray-code) |
+| [0168-excel-sheet-column-title](https://github.com/Dimple-S1163/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Dimple-S1163/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Dimple-S1163/LeetCode/tree/master/0292-nim-game) |
