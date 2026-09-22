@@ -138,6 +138,7 @@
 | [0020-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dimple-S1163/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Brainteaser
 |  |
 | ------- |
@@ -220,4 +223,16 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
