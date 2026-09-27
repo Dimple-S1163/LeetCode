@@ -174,16 +174,19 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dimple-S1163/LeetCode/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Dimple-S1163/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dimple-S1163/LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dimple-S1163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dimple-S1163/LeetCode/tree/master/0100-same-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Brainteaser
 |  |
@@ -235,4 +238,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Dimple-S1163/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Dimple-S1163/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
